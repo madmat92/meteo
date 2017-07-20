@@ -1,4 +1,8 @@
-# Skunch
-### (Skeleton for Brunch)
+# Meteo
+### (Basic Weather map)
 
-Simple Brunch skeleton to build projects with sass, bootstrap and jQuery
+Build with 
+- Brunch.io
+- Open Wheater Map
+
+Work In Progress...
